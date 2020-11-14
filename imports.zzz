@@ -1,0 +1,6 @@
+diamond:
+  src:
+    github:
+      user: mattnite
+      repo: zkg-test-diamond-shared
+      ref: master
